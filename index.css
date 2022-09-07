@@ -1,0 +1,41 @@
+body{
+    background-color:white;
+  }
+  .form-control{
+    background-color:aliceblue;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .col-md-12{
+    padding-left: 50px;
+    padding-right: 150px;
+    margin-top: 20px;
+    margin-left: 50px;
+  
+  }
+  .box-part{
+    background-color:lightcyan;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  
+  }
+  .img-fluid{
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding: 5px 5px;
+  }
+  
+  h3{
+    font-size: medium;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  
+  }
+
+  
